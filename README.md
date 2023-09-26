@@ -1,2 +1,2 @@
 # nbdesign
-practuce
+practice
