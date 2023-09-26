@@ -12,4 +12,6 @@
  
 ![](https://github.com/nahidbadhon/nbdesign/blob/main/img3/WechatIMG96.jpeg)
 ![nexmaker](www.nexmaker.com)
-![www.facebook.com]
+[facebook][def]
+
+[def]: www.facebook.com
